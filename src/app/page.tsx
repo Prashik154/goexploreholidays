@@ -1,22 +1,29 @@
-import { CTA } from "@/components/CTA";
-import { Footer } from "@/components/Footer";
-import Hero from "@/components/Hero";
-import Packages from "@/components/Packages";
-import Testimonials from "@/components/Testimonials";
-import Values from "@/components/Values";
-import VideoSection from "@/components/VideoSection";
+import { AboutUs } from "@/components/AboutUs";
+import HomeSection from "@/components/home/Hero";
+import { OurOfferings } from "@/components/OurOfferings";
+import { SafariPackages } from "@/components/packages/SafariPackages";
+import { AvailabilityChecker } from "@/components/safari/AvailabilityChecker";
+import { SafariBentoGrid } from "@/components/safari/SafariBento";
+import { SightingTracker } from "@/components/safari/SightingTracker";
+import { Testimonials } from "@/components/testimonials/Testimonials";
+import { WhyChooseUs } from "@/components/WhyChooseUs";
+
 
 
 export default function Home() {
   return (
-    <>
-    <Hero/> 
-    <Packages/>
-    <Values/> 
-    <VideoSection/>
-   <Testimonials/>
-    {/* <CTA/> */}
-   <Footer/>  
-   </>
+    <div className="flex flex-col">
+    <HomeSection/>
+   </div>
   );
 }
+    // <div className="container mx-auto px-4 py-16">
+    //   <AboutUs/>
+    //   <WhyChooseUs/>
+    //   <OurOfferings/>
+    //   {/* <AvailabilityChecker/> */}
+    //   <SafariBentoGrid/>
+    //   <SightingTracker/>
+    //   <SafariPackages/>
+    //   <Testimonials/>
+    // </div>

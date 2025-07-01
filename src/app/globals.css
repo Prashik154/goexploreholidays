@@ -2,3 +2,94 @@
 @import "tw-animate-css";
 
 
+/* @import url('https://fonts.cdnfonts.com/css/geist-sans'); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #166534;
+  --secondary: #d97706;
+  --background: #f8fafc;
+}
+.font-roboto {
+  font-family: var(--font-roboto, 'Roboto', sans-serif);
+}
+
+.font-geist{
+  font-family: var(--font-geist) 'Geist Sans', sans-serif;
+}
+
+body {
+  font-family: 'Geist Sans', "Roboto" sans-serif;
+  background-color: var(--background);
+}
+
+.safari-gradient {
+  background: linear-gradient(135deg, #166534 0%, #0c4a2a 100%);
+}
+
+.hover-scale {
+  @apply transition-transform duration-300 hover:scale-105;
+}
+
+/* Add to src/app/styles/globals.css */
+.container {
+  @apply mx-auto px-4 w-full;
+}
+
+/* Responsive container sizes */
+@screen sm {
+  .container {
+    @apply max-w-screen-sm;
+  }
+}
+
+@screen md {
+  .container {
+    @apply max-w-screen-md;
+  }
+}
+
+@screen lg {
+  .container {
+    @apply max-w-screen-lg;
+  }
+}
+
+@screen xl {
+  .container {
+    @apply max-w-screen-xl;
+  }
+}
+
+@screen 2xl {
+  .container {
+    @apply max-w-screen-2xl;
+  }
+}
+
+/* Special container variants */
+.container-narrow {
+  @apply container max-w-4xl;
+}
+
+.container-wide {
+  @apply container max-w-7xl;
+}
+
+/* Section containers */
+.section-container {
+  @apply container py-12 md:py-16 lg:py-20;
+}
+
+/* Card container */
+.card-container {
+  @apply bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden;
+}
+
+/* Grid containers */
+.grid-container {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+}
