@@ -9,7 +9,7 @@ const allPackages = [
     title: 'Tadoba Expedition',
     description: '5-day immersive tiger tracking in Maharashtra',
     duration: '5 days',
-    price: 499,
+    price: 9000,
     highlights: [
       'Exclusive buffer zone access',
       'Night safari included',
@@ -43,7 +43,7 @@ const allPackages = [
     title: 'Pench Wilderness',
     description: 'Where The Jungle Book comes alive',
     duration: '4 days',
-    price: 399,
+    price: 8000,
     highlights: [
       'Visit Mowgli\'s landscape',
       'Birdwatching special',
@@ -77,7 +77,7 @@ const allPackages = [
     title: 'Kanha Wilderness',
     description: 'Home to the rare hardground barasingha',
     duration: '4 days',
-    price: 449,
+    price: 8000,
     highlights: [
       'See the endangered barasingha',
       'Bamboo forests safari',
@@ -111,7 +111,7 @@ const allPackages = [
     title: 'Bandhavgarh Wilderness',
     description: 'Highest tiger density in India',
     duration: '4 days',
-    price: 479,
+    price: 8000,
     highlights: [
       'Ancient Bandhavgarh Fort',
       'Tala zone premium access',
@@ -145,7 +145,7 @@ const allPackages = [
     title: 'Ranthambore Wilderness',
     description: 'Tigers amidst ancient ruins',
     duration: '4 days',
-    price: 429,
+    price: 8000,
     highlights: [
       'Ranthambore Fort views',
       'Lakeside safari zones',
@@ -179,7 +179,7 @@ const allPackages = [
     title: 'Panna Wilderness',
     description: 'Ken River and tiger country',
     duration: '4 days',
-    price: 399,
+    price: 8000,
     highlights: [
       'Diamond mining history',
       'Ken River boat safari',

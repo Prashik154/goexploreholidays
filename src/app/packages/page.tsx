@@ -405,7 +405,7 @@ export default function PackagesPage() {
       title: 'Tadoba Expedition',
       shortDescription: '5-day immersive tiger tracking in Maharashtra',
       duration: '5 days',
-      price: 49900,
+      price: 9000,
       highlights: [
         'Exclusive buffer zone access',
         'Night safari included',
@@ -419,7 +419,7 @@ export default function PackagesPage() {
       title: 'Pench Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
       duration: '4 days',
-      price: 39900,
+      price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
         'Birdwatching special',
@@ -433,7 +433,7 @@ export default function PackagesPage() {
       title: 'Kanha Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
       duration: '4 days',
-      price: 39900,
+      price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
         'Birdwatching special',
@@ -447,7 +447,7 @@ export default function PackagesPage() {
       title: 'Bandhavgarh Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
       duration: '4 days',
-      price: 39900,
+      price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
         'Birdwatching special',
@@ -461,7 +461,7 @@ export default function PackagesPage() {
       title: 'Ranthambore Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
       duration: '4 days',
-      price: 39900,
+      price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
         'Birdwatching special',
@@ -475,7 +475,7 @@ export default function PackagesPage() {
       title: 'Panna Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
       duration: '4 days',
-      price: 39900,
+      price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
         'Birdwatching special',
