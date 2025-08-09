@@ -347,17 +347,9 @@ export default async function PackagePage({ params }: { params: Promise<{ packag
                   <span className="text-gray-600">Package Price</span>
                   <span className="font-medium">₹{safariPackage.price}</span>
                 </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Park Entry Fees</span>
-                  <span className="font-medium">₹1,500</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Guide Charges</span>
-                  <span className="font-medium">₹800</span>
-                </div>
                 <div className="flex justify-between border-t pt-3 font-medium text-lg">
                   <span>Total</span>
-                  <span>₹{safariPackage.price + 1500 + 800}</span>
+                  <span>₹{safariPackage.price}</span>
                 </div>
               </div>
               
