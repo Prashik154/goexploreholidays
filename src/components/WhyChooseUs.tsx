@@ -1,8 +1,7 @@
 "use client";
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { ArrowUpRight } from "lucide-react";
-import { cn } from "@/lib/utils";
+
 
 interface TextParallaxContentProps {
   imgUrl: string;
@@ -37,7 +36,7 @@ export const WhyChooseUsParallax = () => {
           </h2>
           <div className="col-span-1 md:col-span-8">
             <p className="mb-4 text-xl text-muted-foreground md:text-2xl">
-              Our guides have 10+ years of experience tracking wildlife across India's 
+              Our guides have 10+ years of experience tracking wildlife across India&apos;s 
               diverse ecosystems. They know every trail, animal behavior pattern, and 
               the best spots for sightings.
             </p>
@@ -60,7 +59,7 @@ export const WhyChooseUsParallax = () => {
           </h2>
           <div className="col-span-1 md:col-span-8">
             <p className="mb-4 text-xl text-muted-foreground md:text-2xl">
-              We're committed to conservation and supporting local communities. 
+              We&apos;re committed to conservation and supporting local communities. 
               Our safaris follow strict eco-friendly practices to minimize environmental impact.
             </p>
             <p className="mb-8 text-xl text-muted-foreground md:text-2xl">
@@ -86,7 +85,7 @@ export const WhyChooseUsParallax = () => {
               Enjoy gourmet meals, expert-guided tours, and stunning wilderness views.
             </p>
             <p className="mb-8 text-xl text-muted-foreground md:text-2xl">
-              We've been recognized as India's premier safari operator for 5 consecutive years.
+              We&apos;ve been recognized as India&apos;s premier safari operator for 5 consecutive years.
             </p>
           </div>
         </ParallaxContent>

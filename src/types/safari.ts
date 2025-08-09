@@ -54,7 +54,6 @@
 
 
 // app/types/safari.ts
-import { ReactNode } from 'react';
 
 // export interface SafariPackage {
 //   id: string;
@@ -90,7 +89,7 @@ import { ReactNode } from 'react';
 //   };
 // }
 
-import { ReactNode } from 'react';
+
 
 export interface SafariPackage {
   id: string;

@@ -126,7 +126,7 @@ export function WildlifeGalleryDemo() {
           Wildlife Gallery
         </h2>
         <p className="text-center text-muted-foreground max-w-2xl mx-auto mb-12">
-          Discover the magnificent wildlife you'll encounter on our safaris
+          Discover the magnificent wildlife you&apos;ll encounter on our safaris
         </p>
         <WildlifeGallery cards={wildlifeCards} />
       </div>

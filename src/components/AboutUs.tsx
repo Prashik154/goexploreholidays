@@ -372,7 +372,7 @@ export function AboutUs() {
               About Eco Safari Zone
             </h2>
             <p className="text-muted-foreground md:text-xl">
-              Discover India's untamed wilderness with our expert-guided safaris that 
+              Discover India&apos;s untamed wilderness with our expert-guided safaris that 
               offer intimate encounters with magnificent wildlife in their natural habitat.
             </p>
             <div className="space-y-4">
@@ -453,7 +453,7 @@ export function AboutUs() {
                 <div>
                   <h3 className="text-lg font-semibold">Award-Winning</h3>
                   <p className="text-muted-foreground">
-                    Recognized as India's premier safari destination.
+                    Recognized as India&apos;s premier safari destination.
                   </p>
                 </div>
               </div>

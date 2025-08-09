@@ -8,12 +8,6 @@ import {
   SafariPackage
 } from '@/types/safari';
 
-import { 
-  TreePalm, Utensils, Car, Camera, MapPin, 
-  Calendar, Sun, Moon, Coffee, Hiking, 
-  Bird, PawPrint, Waves, Mountain, Tent,
-  Phone, Mail 
-} from 'lucide-react';
 
 // export const safariPackages: SafariPackage[] = [
 //   {
@@ -1614,42 +1608,6 @@ export const sightings: Sighting[] = [
     verified: false,
     highlight: 'Diving for fish'
   },
-  // {
-  //   id: 's6',
-  //   date: '2024-06-05',
-  //   animals: ['Crested Serpent Eagle'],
-  //   location: 'Bandhavgarh Cliffs',
-  //   image: '/images/sightings/Eagle',
-  //   verified: true,
-  //   highlight: 'Perched on ancient ruins'
-  // },
-  // {
-  //   id: 's7',
-  //   date: '2024-06-04',
-  //   animals: ['Sambar Deer'],
-  //   location: 'Tadoba Lake',
-  //   image: '/images/sightings/Group',
-  //   verified: true,
-  //   highlight: 'Large stag at dawn'
-  // },
-  // {
-  //   id: 's8',
-  //   date: '2024-06-03',
-  //   animals: ['Indian Gaur'],
-  //   location: 'Mudumalai Forest',
-  //   image: '/images/sightings/Hawk',
-  //   verified: true,
-  //   highlight: 'Herd of 12 individuals'
-  // },
-  // {
-  //   id: 's9',
-  //   date: '2024-06-02',
-  //   animals: ['Indian Leopard'],
-  //   location: 'Jawai Hills',
-  //   image: '/images/sightings/Leopard',
-  //   verified: true,
-  //   highlight: 'Rock-dwelling female'
-  // },
   {
     id: 's10',
     date: '2024-06-01',

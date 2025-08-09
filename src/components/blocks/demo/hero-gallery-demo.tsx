@@ -388,7 +388,7 @@ export function HeroGalleryDefault() {
           </span>
         </h1>
         <p className="my-8 max-w-2xl text-lg md:text-xl text-black/90 font-medium leading-relaxed drop-shadow-md font-roboto">
-          Discover India's majestic wildlife with our expertly crafted safari experiences in the most breathtaking national parks.
+          Discover India&apos;s majestic wildlife with our expertly crafted safari experiences in the most breathtaking national parks.
         </p>
         <div className="flex items-center justify-center gap-6 mt-10">
           <Button className="bg-amber-600 hover:bg-amber-500 text-white px-8 py-4 text-lg font-semibold rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg font-roboto">

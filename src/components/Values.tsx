@@ -25,7 +25,7 @@
           </div>
           <div className="max-w-[913px] mt-6">
             <p className="text-[19.5px] leading-relaxed">
-              Our beliefs aren't just words; they are the foundation of every adventure we offer.
+              Our beliefs aren&apos;t just words; they are the foundation of every adventure we offer.
               With high commitment to sustainability, authenticity, and customer-centricity,
               we ensure that every trip you take with us is valuable.
             </p>

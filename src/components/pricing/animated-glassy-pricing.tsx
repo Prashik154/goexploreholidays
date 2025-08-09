@@ -1,5 +1,4 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { MapPin, Binoculars, TreePine, Car, Camera, Star } from 'lucide-react';
 import { RippleButton } from './multi-type-ripple-buttons';
 
 const CheckIcon = ({ className }: { className?: string }) => (

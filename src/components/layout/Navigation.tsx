@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Search, X, Menu, ChevronDownIcon, Book, Trees, Sunset, Zap } from 'lucide-react';
+import { Search, X, Menu, Book, Trees, Sunset, Zap } from 'lucide-react';
 import Image from 'next/image';
 import {
   Accordion,
@@ -23,7 +23,6 @@ import {
   SheetContent,
   SheetHeader,
   SheetTitle,
-  SheetTrigger,
 } from "@/components/ui/sheet";
 
 export function Navigation() {
@@ -111,7 +110,7 @@ export function Navigation() {
                 className="bg-gray-200 border-2 rounded-xl w-16 h-16" 
               />
               <div className="ml-3">
-                <h1 className="text-xl font-bold text-green-800">WildTrails</h1>
+                <h1 className="text-xl font-bold text-green-800">GoXlpore</h1>
                 <p className="text-xs text-gray-600">Jungle Safari Experts</p>
               </div>
             </Link>

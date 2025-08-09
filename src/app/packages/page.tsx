@@ -496,7 +496,7 @@ export default function PackagesPage() {
       >
         <h1 className="text-3xl font-bold text-gray-900 mb-4">Safari Packages</h1>
         <p className="text-gray-600 max-w-2xl mx-auto">
-          Choose from our curated selection of wildlife adventures across India's premier national parks
+          Choose from our curated selection of wildlife adventures across India&apos;s premier national parks
         </p>
       </motion.div>
 

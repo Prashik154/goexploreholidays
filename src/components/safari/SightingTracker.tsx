@@ -158,12 +158,12 @@ import { sightings } from '@/app/utils/data';
 
 export function SightingTracker() {
   // Group sightings by date for better organization
-  const groupedSightings = sightings.reduce((acc, sighting) => {
-    const date = new Date(sighting.date).toDateString();
-    if (!acc[date]) acc[date] = [];
-    acc[date].push(sighting);
-    return acc;
-  }, {});
+  // const groupedSightings = sightings.reduce((acc, sighting) => {
+  //   const date = new Date(sighting.date).toDateString();
+  //   if (!acc[date]) acc[date] = [];
+  //   acc[date].push(sighting);
+  //   return acc;
+  // }, {});
 
   return (
     <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-200 mb-16">
