@@ -362,7 +362,7 @@ export default function HomeSection() {
               Get in Touch
             </Link>
             <Link 
-              href="tel:+919876543210"
+              href="tel:+917507362103"
               className="border-2 border-white text-white hover:bg-white hover:text-gray-900 font-medium py-3 px-8 rounded-full transition-colors duration-300 flex items-center gap-2"
             >
               <Phone className="w-5 h-5" /> +91 9834626340
