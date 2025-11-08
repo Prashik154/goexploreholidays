@@ -55,6 +55,12 @@ export function Footer() {
             <p className="text-gray-400 mb-6">
               Crafting unforgettable wildlife experiences since 2010. Committed to ethical tourism and conservation.
             </p>
+            <div className="mb-6">
+              <p className="text-gray-400 text-sm leading-relaxed">
+                Shubharambh Society, Plot No 15,<br />
+                Dhaba, Nagpur.
+              </p>
+            </div>
             <div className="flex space-x-4">
               {['🦁', '🐅', '🦚', '🐘'].map((emoji, i) => (
                 <motion.span

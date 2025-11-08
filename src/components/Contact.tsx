@@ -204,14 +204,14 @@ export function ContactSection() {
               <div className="space-y-4">
                 <div>
                   <p className="text-sm text-gray-600 mb-1">Call us on:</p>
-                  <a href="tel:+9118001234567" className="text-lg font-medium text-gray-900 hover:text-green-600">
-                    +91 1800 123 4567
+                  <a href="tel:+917507362103" className="text-lg font-medium text-gray-900 hover:text-green-600">
+                    +91 7507362103
                   </a>
                 </div>
                 <div>
                   <p className="text-sm text-gray-600 mb-1">Email us at:</p>
-                  <a href="mailto:bookings@wildtrails.com" className="text-lg font-medium text-gray-900 hover:text-green-600">
-                    bookings@wildtrails.com
+                  <a href="mailto:prashikbagde1998@gmail.com" className="text-lg font-medium text-gray-900 hover:text-green-600">
+                  prashikbagde1998@gmail.com
                   </a>
                 </div>
                 <div className="pt-4 border-t border-amber-100">
@@ -230,8 +230,8 @@ export function ContactSection() {
               <div className="space-y-4">
                 <div>
                   <p className="text-sm text-gray-600 mb-1">Call us on:</p>
-                  <a href="tel:+9118001234568" className="text-lg font-medium text-gray-900 hover:text-green-600">
-                    +91 1800 123 4568
+                  <a href="tel:+917507362103" className="text-lg font-medium text-gray-900 hover:text-green-600">
+                    +91 7507362103
                   </a>
                 </div>
                 <div>
@@ -248,8 +248,8 @@ export function ContactSection() {
               <div className="space-y-4">
                 <div>
                   <p className="text-sm text-gray-600 mb-1">Call us on:</p>
-                  <a href="tel:+9118001234569" className="text-lg font-medium text-gray-900 hover:text-green-600">
-                    +91 1800 123 4569
+                  <a href="tel:+917507362103" className="text-lg font-medium text-gray-900 hover:text-green-600">
+                    +91 7507362103
                   </a>
                 </div>
                 <div className="pt-4 border-t border-blue-100">
