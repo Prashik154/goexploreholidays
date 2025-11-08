@@ -404,7 +404,7 @@ export default function PackagesPage() {
       id: 'tadoba-expedition',
       title: 'Tadoba Expedition',
       shortDescription: '5-day immersive tiger tracking in Maharashtra',
-      duration: '1Night/2 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Exclusive buffer zone access',
@@ -418,7 +418,7 @@ export default function PackagesPage() {
       id: 'pench-wilderness',
       title: 'Pench Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
-      duration: '4 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
@@ -432,7 +432,7 @@ export default function PackagesPage() {
       id: 'kanha-wilderness',
       title: 'Kanha Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
-      duration: '4 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
@@ -446,7 +446,7 @@ export default function PackagesPage() {
       id: 'bandhavgarh-wilderness',
       title: 'Bandhavgarh Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
-      duration: '4 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
@@ -460,7 +460,7 @@ export default function PackagesPage() {
       id: 'ranthambore-wilderness',
       title: 'Ranthambore Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
-      duration: '4 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',
@@ -474,7 +474,7 @@ export default function PackagesPage() {
       id: 'panna-wilderness',
       title: 'Panna Wilderness',
       shortDescription: 'Where The Jungle Book comes alive',
-      duration: '4 days',
+      duration: '1N/2D',
       price: 8000,
       highlights: [
         'Visit Mowgli\'s landscape',

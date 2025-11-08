@@ -193,7 +193,7 @@ export default function HomeSection() {
               {
                 id: "pench-3n4d",
                 title: "Pench Tiger Safari",
-                duration: "3 Nights / 4 Days",
+                duration: "1N/2D",
                 price: "₹8,000",
                 image: "/images/sightings/Bengal Tiger.jpg",
                 highlight: "Mowgli's Jungle Book Land"
@@ -201,7 +201,7 @@ export default function HomeSection() {
               {
                 id: "kanha-3n4d",
                 title: "Kanha Wilderness",
-                duration: "3 Nights / 4 Days",
+                duration: "1N/2D",
                 price: "₹8,000",
                 image: "/images/sightings/Barasinga.jpg",
                 highlight: "Rare Barasingha Deer"
@@ -209,7 +209,7 @@ export default function HomeSection() {
               {
                 id: "bandhavgarh-3n4d",
                 title: "Bandhavgarh Quest",
-                duration: "3 Nights / 4 Days",
+                duration: "1N/2D",
                 price: "₹8,000",
                 image: "/images/sightings/Cruel Tiger.jpg",
                 highlight: "Highest Tiger Density"
