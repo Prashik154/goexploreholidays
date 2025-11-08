@@ -404,8 +404,8 @@ export default function PackagesPage() {
       id: 'tadoba-expedition',
       title: 'Tadoba Expedition',
       shortDescription: '5-day immersive tiger tracking in Maharashtra',
-      duration: '5 days',
-      price: 9000,
+      duration: '1Night/2 days',
+      price: 8000,
       highlights: [
         'Exclusive buffer zone access',
         'Night safari included',
