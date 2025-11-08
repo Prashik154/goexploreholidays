@@ -669,7 +669,7 @@ import {
 export const safariPackages: SafariPackage[] = [
   {
     id: 'pench-3n4d',
-    title: '3 Nights 4 Days - Pench Tiger Safari',
+    title: ' 1 Night 2 Days - Pench Tiger Safari',
     shortDescription: 'Immerse yourself in the wild with 5 thrilling jeep safaris',
     duration: '3 Nights 4 Days',
     price: 24900,
@@ -885,7 +885,7 @@ export const safariPackages: SafariPackage[] = [
     id: 'tadoba-packages',
     title: 'Tadoba Tiger Reserve Packages',
     shortDescription: 'Experience Maharashtra\'s premier tiger reserve with multiple accommodation options',
-    duration: '1-3 Nights',
+    duration: '1 Nights/2 Days',
     price: 5200, // Starting price
     image: '/images/tadoba-main.jpg',
     parkInfo: {
@@ -900,7 +900,7 @@ export const safariPackages: SafariPackage[] = [
         id: 'tadoba-package-1',
         name: 'Tadoba Bagh Niwas Resort (1N/2D)',
         price: 5200,
-        duration: '1 Night 2 Days',
+        duration: '1 Nights/2 Days',
         includes: [
           'All Meals (Veg + NonVeg)',
           '1 Jungle Safari Ride',
@@ -917,7 +917,7 @@ export const safariPackages: SafariPackage[] = [
         id: 'tadoba-package-2',
         name: 'Zeal Tadoba Resort (1N/2D)',
         price: 5700,
-        duration: '1 Night 2 Days',
+        duration: '1 Nights/2 Days',
         includes: [
           'All Meals (Veg + NonVeg)',
           '1 Jungle Safari Ride',
@@ -934,7 +934,7 @@ export const safariPackages: SafariPackage[] = [
         id: 'tadoba-package-3',
         name: 'Wildcat Resort Tadoba (1N/2D)',
         price: 6700,
-        duration: '1 Night 2 Days',
+        duration: '1 Nights/2 Days',
         includes: [
           'All Meals (Veg + NonVeg)',
           '1 Jungle Safari Ride',
@@ -951,7 +951,7 @@ export const safariPackages: SafariPackage[] = [
         id: 'tadoba-package-4',
         name: 'Tadoba Bagh Niwas Resort (2N/3D)',
         price: 10400,
-        duration: '2 Nights 3 Days',
+        duration: '2 Nights/3 Days',
         includes: [
           'All Meals (Veg + NonVeg)',
           '2 Jungle Safari Rides',
@@ -968,7 +968,7 @@ export const safariPackages: SafariPackage[] = [
         id: 'tadoba-package-5',
         name: 'Premium Tadoba Experience (2N/3D)',
         price: 12400,
-        duration: '2 Nights 3 Days',
+          duration: '2 Nights/3 Days',
         includes: [
           'All Meals (Veg + NonVeg)',
           '3 Jungle Safari Rides',
@@ -1029,9 +1029,9 @@ export const safariPackages: SafariPackage[] = [
   },
   {
     id: 'kanha-4n5d',
-    title: '4 Nights 5 Days - Kanha National Park',
+    title: ' 1 Night 2 Days - Kanha National Park',
     shortDescription: 'Discover the inspiration behind The Jungle Book with 6 comprehensive safaris',
-    duration: '4 Nights 5 Days',
+    duration: '4 Nights/5 Days',
     price: 34900,
     image: '/images/kanha-main.jpg',
     parkInfo: {
@@ -1148,7 +1148,7 @@ export const safariPackages: SafariPackage[] = [
   },
   {
     id: 'bandhavgarh-3n4d',
-    title: '3 Nights 4 Days - Bandhavgarh Fort Safari',
+    title: '1 Night 2 Days - Bandhavgarh Fort Safari',
     shortDescription: 'Explore the land of highest tiger density with ancient fort backdrop',
     duration: '3 Nights 4 Days',
     price: 28900,
@@ -1255,7 +1255,7 @@ export const safariPackages: SafariPackage[] = [
   },
   {
     id: 'panna-3n4d',
-    title: '3 Nights 4 Days - Panna Diamond Safari',
+    title: '1 Night 2 Days - Panna Diamond Safari',
     shortDescription: 'UNESCO Biosphere Reserve with diamond mines and tiger conservation success',
     duration: '3 Nights 4 Days',
     price: 23900,
@@ -1362,7 +1362,7 @@ export const safariPackages: SafariPackage[] = [
   },
   {
     id: 'ranthambore-3n4d',
-    title: '3 Nights 4 Days - Ranthambore Royal Safari',
+    title: ' 1 Night 2 Days - Ranthambore Royal Safari',
     shortDescription: 'Historic fort ruins with royal tigers in Rajasthan\'s premier national park',
     duration: '3 Nights 4 Days',
     price: 32900,
