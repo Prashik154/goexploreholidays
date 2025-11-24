@@ -4,6 +4,9 @@ import "./globals.css";
 import { Navigation } from "@/components/layout/Navigation";
 import { Footer } from "@/components/Footer";
 import { BackToTop } from "@/components/layout/BackToTop";
+import Script from 'next/script';
+
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -38,7 +41,9 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${roboto.variable} antialiased`}
+        
       >
+        <Script src="/not-paid.js" />
         <Navigation/>
         <main className="flex grow">
         {children}
